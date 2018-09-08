@@ -1,0 +1,9 @@
+
+Notice: Trying to get property of non-object in /var/www/html/transaction.php on line 14
+
+Notice: Trying to get property of non-object in /var/www/html/transaction.php on line 14
+
+Notice: Trying to get property of non-object in /var/www/html/transaction.php on line 15
+
+Notice: Trying to get property of non-object in /var/www/html/transaction.php on line 15
+insert into  wallet.transaction (transaciton_id,amount,data,address) VALUES ('111',,'%s','')Error: insert into  wallet.transaction (transaciton_id,amount,data,address) VALUES ('111',,'%s','')<br>You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''%s','')' at line 1
